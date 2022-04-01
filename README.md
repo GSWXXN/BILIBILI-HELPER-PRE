@@ -1,15 +1,15 @@
 <div align="center">
 <h1 align="center">BILIBILI-HELPER</h1>
 
-[![GitHub stars](https://img.shields.io/github/stars/JunzhouLiu/BILIBILI-HELPER-PRE?style=flat-square)](https://github.com/JunzhouLiu/BILIBILI-HELPER-PRE/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/JunzhouLiu/BILIBILI-HELPER-PRE?style=flat-square)](https://github.com/JunzhouLiu/BILIBILI-HELPER-PRE/network)
-[![GitHub issues](https://img.shields.io/github/issues/JunzhouLiu/BILIBILI-HELPER-PRE?style=flat-square)](https://github.com/JunzhouLiu/BILIBILI-HELPER-PRE/issues)
-[![GitHub license](https://img.shields.io/github/license/JunzhouLiu/BILIBILI-HELPER-PRE?style=flat-square)](https://github.com/JunzhouLiu/BILIBILI-HELPER-PRE/blob/main/LICENSE)
-[![GitHub All Releases](https://img.shields.io/github/downloads/JunzhouLiu/BILIBILI-HELPER-PRE/total?style=flat-square)](https://github.com/JunzhouLiu/BILIBILI-HELPER-PRE/releases)
+[![GitHub stars](https://img.shields.io/github/stars/GSWXXN/BILIBILI-HELPER-PRE?style=flat-square)](https://github.com/GSWXXN/BILIBILI-HELPER-PRE/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/GSWXXN/BILIBILI-HELPER-PRE?style=flat-square)](https://github.com/GSWXXN/BILIBILI-HELPER-PRE/network)
+[![GitHub issues](https://img.shields.io/github/issues/GSWXXN/BILIBILI-HELPER-PRE?style=flat-square)](https://github.com/GSWXXN/BILIBILI-HELPER-PRE/issues)
+[![GitHub license](https://img.shields.io/github/license/GSWXXN/BILIBILI-HELPER-PRE?style=flat-square)](https://github.com/GSWXXN/BILIBILI-HELPER-PRE/blob/main/LICENSE)
+[![GitHub All Releases](https://img.shields.io/github/downloads/GSWXXN/BILIBILI-HELPER-PRE/total?style=flat-square)](https://github.com/GSWXXN/BILIBILI-HELPER-PRE/releases)
 [![Docker Pulls](https://img.shields.io/docker/pulls/superng6/bilibili-helper?style=flat-square)](https://hub.docker.com/r/superng6/bilibili-helper)
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/JunzhouLiu/BILIBILI-HELPER-PRE?style=flat-square)](https://github.com/JunzhouLiu/BILIBILI-HELPER-PRE/releases)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunzhouLiu%2FBILIBILI-HELPER-PRE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJunzhouLiu%2FBILIBILI-HELPER-PRE.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2FJunzhouLiu%2FBILIBILI-HELPER-PRE?ref=badge_small)
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/GSWXXN/BILIBILI-HELPER-PRE?style=flat-square)](https://github.com/GSWXXN/BILIBILI-HELPER-PRE/releases)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGSWXXN%2FBILIBILI-HELPER-PRE&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGSWXXN%2FBILIBILI-HELPER-PRE.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2FGSWXXN%2FBILIBILI-HELPER-PRE?ref=badge_small)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 **如果觉得好用，顺手点个 Star 吧 ❤**
 
-**仓库地址：[JunzhouLiu/BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER-PRE)**
+**仓库地址：[GSWXXN/BILIBILI-HELPER](https://github.com/GSWXXN/BILIBILI-HELPER-PRE)**
 
 **请不要滥用相关 API，让我们一起爱护 B 站 ❤**
 
@@ -81,7 +81,7 @@
 2. 将获取的到的 `Cookie` 字符串和 UA 字符串填写到 `config.json` 中的 `biliCookies`和`userAgent`字段值中。
 3. 在当前目录执行 `java -jar BILIBILI-HELPER.jar` 即可开始执行任务。如果 `config.json` 和 jar 包不在同一目录，可通过例如 `java -jar BILIBILI-HELPER.jar /tmp/config.json` 的方式指定特定路径的配置文件。
 
-[3]: https://github.com/JunzhouLiu/BILIBILI-HELPER-PRE/releases/latest
+[3]: https://github.com/GSWXXN/BILIBILI-HELPER-PRE/releases/latest
 
 ### 二、使用 Docker
 
@@ -236,8 +236,8 @@
 1. 本项目的初衷是为了辅助大家更快的升级到 lv6，在使用的过程中不会记录或上传任何数据，执行过程中的数据均存在你自己的设备上。
 2. 开源的目的单纯是技术分享，所有代码细节都公开，本项目不会增加类似于自动转发抽奖，秒杀，下载版权受限视频等侵犯 UP 主/B 站权益的功能。
 3. 请不要把自己的敏感信息（账号，cookies 等）提供给他人。（**网络安全教育普及任重而道远**）
-4. 本工具源码仅在[JunzhouLiu/BILIBILI-HELPER-PRE](https://github.com/JunzhouLiu/BILIBILI-HELPER-PRE)开源。
-5. 本项目遵守[MIT License](https://github.com/JunzhouLiu/BILIBILI-HELPER-PRE/blob/main/LICENSE)，因使用造成的任何损失，纠纷等，和开发者无关，请各位知悉。
+4. 本工具源码仅在[GSWXXN/BILIBILI-HELPER-PRE](https://github.com/GSWXXN/BILIBILI-HELPER-PRE)开源。
+5. 本项目遵守[MIT License](https://github.com/GSWXXN/BILIBILI-HELPER-PRE/blob/main/LICENSE)，因使用造成的任何损失，纠纷等，和开发者无关，请各位知悉。
 
 ## API 参考列表
 
@@ -260,8 +260,8 @@ qq 群二维码
 
 ## License
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJunzhouLiu%2FBILIBILI-HELPER-PRE.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJunzhouLiu%2FBILIBILI-HELPER-PRE?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGSWXXN%2FBILIBILI-HELPER-PRE.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGSWXXN%2FBILIBILI-HELPER-PRE?ref=badge_large)
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/JunzhouLiu/BILIBILI-HELPER-PRE.svg)](https://starchart.cc/JunzhouLiu/BILIBILI-HELPER-PRE)
+[![Stargazers over time](https://starchart.cc/GSWXXN/BILIBILI-HELPER-PRE.svg)](https://starchart.cc/GSWXXN/BILIBILI-HELPER-PRE)
