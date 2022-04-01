@@ -99,7 +99,7 @@
 
 ### 五、使用青龙管理面板
 
-- **青龙一键拉取命令 `ql raw https://raw.githubusercontent.com/graytoowolf/BILIBILI-HELPER-PRE/main/bilibili_helper.sh`**
+- **青龙一键拉取命令 `ql raw https://raw.githubusercontent.com/GSWXXN/BILIBILI-HELPER-PRE/main/bilibili_helper.sh`**
 - **[青龙管理面板部署](docs/qinglong.md)**
 
 ## 自定义功能配置
